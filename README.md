@@ -21,6 +21,7 @@ A nível de contextualização, os temas propostos serão citados no tópico aba
 ## Temas sugeridos e tema escolhido para o projeto
 
 Tema 1: Planejamento de Conservação Marinha
+
 Programação de Alocação de Recursos: Utilizar programação dinâmica para otimizar a alocação de recursos limitados para a criação e manutenção de áreas marinhas protegidas. Isso envolve a modelagem de diferentes cenários de alocação de recursos e a seleção das áreas prioritárias para conservação, considerando critérios como biodiversidade, vulnerabilidade e conectividade.
 <ul>
   <li>Função para calcular o valor de uma área marinha;</li>
@@ -29,6 +30,7 @@ Programação de Alocação de Recursos: Utilizar programação dinâmica para o
 </ul>
 
 Tema 2: Monitoramento de Poluição Oceânica
+
 Redes de Sensores Inteligentes: Projetar redes de sensores inteligentes que utilizam técnicas de programação dinâmica para otimizar a alocação de sensores subaquáticos e a coleta de dados sobre a poluição oceânica. Isso permite identificar áreas críticas de poluição e priorizar ações de monitoramento e resposta.
 <ul>
   <li>Função para calcular a distância entre pontos;</li>
