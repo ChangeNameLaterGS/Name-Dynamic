@@ -37,5 +37,5 @@ Redes de Sensores Inteligentes: Projetar redes de sensores inteligentes que util
 </ul>
 
 ## Copyright
-Esse código deve ser utilizado somente a nível de estudos, sendo proibido a sua venda sem a autorização das 3 partes citadas abaixo.
+Esse código deve ser utilizado somente a nível de estudos, sendo proibido a sua venda sem a autorização das 3 partes citadas abaixo. <br>
 Copyright :copyright: - Todos os direitos reservados à Phoenix Systems, grupo da faculdade FIAP composto por Leticia Resina, Vitor Hugo e Gabriel Machado.
