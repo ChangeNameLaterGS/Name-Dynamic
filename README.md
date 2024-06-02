@@ -2,6 +2,14 @@
 O nome "Phoenix Systems" surge da inspiração na mítica ave Fênix, que renasce das cinzas, simbolizando renovação e continuidade. Esse nome reflete a essência da nossa missão empresarial: trazer incessantemente novas ideias e soluções ao mundo, enfrentando até os maiores desafios, e auxiliar tanto indivíduos quanto empresas a se reinventarem.
 ![Phoenix](https://github.com/PhoenixSystemsGS/Phoenix-Dynamic/assets/80417466/d4cb1db2-9571-4115-8b7e-3dbc212901fd)
 
+O projeto é composto pelos alunos:
+
+<ul>
+  <li>Gabriel Machado Carrara Pimentel;</li>
+  <li> Leticia Cristina Gandarez Resina;</li>
+  <li> Vitor Hugo Gonçalvez Rodrigues.</li>
+</ul>
+
 ## Aqua Proteus
 Após uma profunda imersão nos desafios da preservação dos oceanos, a Phoenix Systems apresenta o projeto Aqua Proteus, uma iniciativa inovadora e abrangente que visa proteger e restaurar os mares do planeta. Inspirado na figura mitológica de Proteu, guardião dos mares com a capacidade de prever o futuro e se adaptar, o Aqua Proteus reúne tecnologias de ponta para monitorar, analisar e restaurar os oceanos de forma eficiente e sustentável.
 
@@ -53,6 +61,8 @@ CAMARGO, S. Aos 87 anos, Sylvia Earle, a mais renomada oceanógrafa do mundo, fa
 ‘Dama dos mares’: quem é Sylvia Earle, oceanógrafa de 87 anos com mais de 7,5 mil horas de mergulho no currículo. Disponível em: <https://g1.globo.com/fantastico/noticia/2023/07/30/dama-dos-mares-quem-e-sylvia-earle-oceanografa-de-87-anos-com-mais-de-75-mil-horas-de-mergulho-no-curriculo.ghtml>. Acesso em: 29 maio. 2024.
 
 Outras referências importantes 
+
+Alguns dos nossos entendimentos você pode encontrar no documento "explicacao.txt", que foi usado pela desenvolvedora para entender mais sobre os assuntos abaixo e deixar a nível de conhecimento para todos que tiverem curiosidade. 
 
 Sobre Geometria Euclidiana e tomada de decisões 
 https://www.docentes.univasf.edu.br/carlos.freitas/geometria_analitica/
