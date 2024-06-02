@@ -38,6 +38,22 @@ Redes de Sensores Inteligentes: Projetar redes de sensores inteligentes que util
   <li>Encontrar a distribuição ótima dos sensores.</li>
 </ul>
 
+Para essa ideia, selecionamos então o Tema 2 para entrega, mas como citamos anteriormente, ambos os temas fazem sentido com a solução proposta, e iremos fazer ambos os códigos.
+
+## Referências usadas
+
+Oceanos. Disponível em: <https://brasilescola.uol.com.br/geografia/oceanos.htm>. Acesso em: 29 maio. 2024.
+MATIAS, Á. Oceanos. Disponível em: <https://mundoeducacao.uol.com.br/geografia/oceanos.htm>. Acesso em: 29 maio. 2024.
+LAGGER, P. C. Dia Mundial dos Oceanos: 4 ameaças que os colocam em perigo. Disponível em: <https://www.nationalgeographicbrasil.com/meio-ambiente/2022/06/dia-mundial-dos-oceanos-4-ameacas-que-os-colocam-em-perigo>. Acesso em: 29 maio. 2024.
+10 principais problemas dos oceanos. Disponível em: <https://surftotal.com/noticias/ambiente/item/12394-10-principais-problemas-dos-oceanos>. Acesso em: 29 maio. 2024.
+DE FREITAS, E. Poluição das águas oceânicas. Disponível em: <https://mundoeducacao.uol.com.br/geografia/poluicao-das-aguas-oceanicas.htm>. Acesso em: 29 maio. 2024.
+KRÜGER, M. Conheça Sylvia Earle, a mergulhadora de 85 anos que luta em defesa dos oceanos. Disponível em: <https://oglobo.globo.com/um-so-planeta/conheca-sylvia-earle-mergulhadora-de-85-anos-que-luta-em-defesa-dos-oceanos-25041834>. Acesso em: 29 maio. 2024.
+Sylvia Earle: a dama dos mares. Disponível em: <https://www.nationalgeographicbrasil.com/meio-ambiente/sylvia-earle-a-dama-dos-mares>. Acesso em: 29 maio. 2024.
+CAMARGO, S. Aos 87 anos, Sylvia Earle, a mais renomada oceanógrafa do mundo, faz seu primeiro mergulho no Brasil. Disponível em: <https://conexaoplaneta.com.br/blog/aos-87-anos-sylvia-earle-a-mais-renomada-oceanografa-do-mundo-faz-seu-primeiro-mergulho-no-brasil/>. Acesso em: 29 maio. 2024.
+‘Dama dos mares’: quem é Sylvia Earle, oceanógrafa de 87 anos com mais de 7,5 mil horas de mergulho no currículo. Disponível em: <https://g1.globo.com/fantastico/noticia/2023/07/30/dama-dos-mares-quem-e-sylvia-earle-oceanografa-de-87-anos-com-mais-de-75-mil-horas-de-mergulho-no-curriculo.ghtml>. Acesso em: 29 maio. 2024.
+
+Livro: Entendendo Algoritmos nos auxiliou em partes da construção do código também
+
 ## Copyright
 Esse código deve ser utilizado somente a nível de estudos, sendo proibido a sua venda sem a autorização das 3 partes citadas abaixo. <br>
 Copyright :copyright: - Todos os direitos reservados à Phoenix Systems, grupo da faculdade FIAP composto por Leticia Resina, Vitor Hugo e Gabriel Machado.
