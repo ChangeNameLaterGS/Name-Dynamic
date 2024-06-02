@@ -1,0 +1,43 @@
+Para o monitoramento de poluição oceânica através de uma rede de sensores inteligentes, a escolha da distância ideal depende fortemente dos dados que você coleta e dos objetivos do seu sistema. 
+
+Aqui estão algumas considerações e as distâncias que podem ser mais adequadas para diferentes cenários:
+
+1. Distância Euclidiana:
+
+* Vantagem: Simples, rápida de calcular. 
+* Desvantagem: Ignora a influência de fatores ambientais como correntes marítimas e ventos.
+
+Quando usar:
+
+* Cenários simplificados: Se você está apenas otimizando a posição dos sensores em um mapa plano e não precisa levar em conta fatores como correntes, a distância euclidiana pode ser uma boa opção.
+* Primeira fase de desenvolvimento: Como um ponto de partida para testar o sistema de otimização de sensores.
+
+2. Distância Considerando Correntes (como no código anterior):
+
+* Vantagem:  Leva em consideração a influência de correntes marítimas, que afetam significativamente a dispersão de poluentes.
+* Desvantagem: Pode ser imprecisa se a corrente não for constante ou se outros fatores ambientais estiverem em jogo.
+
+Quando usar:
+
+* Cenários com correntes significativas: Se você sabe que a dispersão de poluentes é influenciada por correntes,  é crucial usar uma medida de distância que as considere.
+* Cenários com correntes relativamente constantes: Se as correntes variam pouco no tempo, você pode usar uma medida de distância que considera a corrente média.
+
+3. Distância de Mahalanobis:
+
+* Vantagem: Leva em consideração a correlação entre diferentes variáveis de poluição, como concentrações de diferentes compostos, temperatura e salinidade.  Ajuda a identificar áreas com padrões de poluição mais complexos.
+* Desvantagem:  Requer dados suficientes para calcular uma matriz de covariância precisa. 
+
+Quando usar:
+
+* Cenários com dados de diferentes variáveis de poluição: Se você está medindo concentrações de diferentes poluentes, temperatura, salinidade, etc., a distância de Mahalanobis pode fornecer uma visão mais abrangente da dispersão da poluição.
+* Cenários com dados históricos: Se você tem dados históricos de poluição, pode usar essa informação para calcular a matriz de covariância e aplicar a distância de Mahalanobis.
+
+4. Distância Baseada em Modelos de Dispersão:
+
+* Vantagem:  Pode ser muito precisa, pois leva em conta a complexidade da dispersão da poluição.
+* Desvantagem:  Requer a criação e calibragem de modelos de dispersão específicos para a área de interesse.
+
+Quando usar:
+
+* Cenários complexos com diversos fatores ambientais: Se você precisa considerar correntes, ventos, topografia do fundo do mar, e outros fatores, um modelo de dispersão pode ser a melhor maneira de calcular a distância entre pontos de poluição.
+* Cenários com dados históricos e modelagem: Se você possui dados históricos e ferramentas de modelagem, pode usar esses recursos para criar um modelo de dispersão preciso.
