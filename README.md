@@ -52,6 +52,13 @@ Sylvia Earle: a dama dos mares. Disponível em: <https://www.nationalgeographicb
 CAMARGO, S. Aos 87 anos, Sylvia Earle, a mais renomada oceanógrafa do mundo, faz seu primeiro mergulho no Brasil. Disponível em: <https://conexaoplaneta.com.br/blog/aos-87-anos-sylvia-earle-a-mais-renomada-oceanografa-do-mundo-faz-seu-primeiro-mergulho-no-brasil/>. Acesso em: 29 maio. 2024.
 ‘Dama dos mares’: quem é Sylvia Earle, oceanógrafa de 87 anos com mais de 7,5 mil horas de mergulho no currículo. Disponível em: <https://g1.globo.com/fantastico/noticia/2023/07/30/dama-dos-mares-quem-e-sylvia-earle-oceanografa-de-87-anos-com-mais-de-75-mil-horas-de-mergulho-no-curriculo.ghtml>. Acesso em: 29 maio. 2024.
 
+Outras referências importantes 
+
+Sobre Geometria Euclidiana e tomada de decisões 
+https://www.docentes.univasf.edu.br/carlos.freitas/geometria_analitica/
+
+https://aeroengenharia.com/glossario/o-que-e-distancia-euclidiana/#:~:text=Como%20Funciona%20e%20Para%20Que%20Serve&text=Essa%20medida%20%C3%A9%20usada%20para,padr%C3%B5es%2C%20otimiza%C3%A7%C3%A3o%20e%20muito%20mais.
+
 Livro: Entendendo Algoritmos nos auxiliou em partes da construção do código também
 
 ## Copyright
