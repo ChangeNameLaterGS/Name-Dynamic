@@ -62,12 +62,15 @@ CAMARGO, S. Aos 87 anos, Sylvia Earle, a mais renomada oceanógrafa do mundo, fa
 
 Outras referências importantes 
 
-Alguns dos nossos entendimentos você pode encontrar no documento "explicacao.txt", que foi usado pela desenvolvedora para entender mais sobre os assuntos abaixo e deixar a nível de conhecimento para todos que tiverem curiosidade. 
+Alguns dos nossos entendimentos você pode encontrar no documento "pesquisa.txt", que foi usado pela desenvolvedora para entender mais sobre os assuntos abaixo e deixar a nível de conhecimento para todos que tiverem curiosidade. 
 
-Sobre Geometria Euclidiana e tomada de decisões 
 https://www.docentes.univasf.edu.br/carlos.freitas/geometria_analitica/
 
 https://aeroengenharia.com/glossario/o-que-e-distancia-euclidiana/#:~:text=Como%20Funciona%20e%20Para%20Que%20Serve&text=Essa%20medida%20%C3%A9%20usada%20para,padr%C3%B5es%2C%20otimiza%C3%A7%C3%A3o%20e%20muito%20mais.
+
+https://www.augustobaffa.pro.br/wiki/Dist%C3%A2ncia_de_Mahalanobis
+
+https://adenilsongiovanini.com.br/blog/distancia-de-mahalanobis-o-que-e-e-exemplo/
 
 Livro: Entendendo Algoritmos nos auxiliou em partes da construção do código também
 

@@ -1,0 +1,52 @@
+Distância euclidiana 
+
+- É usada para cálculo de distância entre dois pontos multidimensionais vetoriais 
+
+- É a aplicação repetida do teorema de Pitagóras (o quadrado da hipotenusa é igual à soma dos quadrados dos catetos), porém vetorial
+
+- Os usos: 
+        Navegação: Calcular a distância entre dois pontos em um mapa.
+        Reconhecimento de padrões: Calcular a distância entre dois pontos de dados para classificá-los.
+        Computação gráfica: Calcular a distância entre objetos virtuais.
+        Machine learning: Calcular a distância entre pontos de dados em modelos de aprendizado de máquina.
+
+- Os prós de utilizar essa distância
+        Facilidade de cálculo: a fórmula da distância euclidiana é simples e fácil de calcular, mesmo em espaços de alta dimensão.
+        Interpretação intuitiva: a distância euclidiana pode ser interpretada como a distância física entre dois pontos, o que facilita a compreensão dos resultados.
+        Compatibilidade com outros conceitos: a distância euclidiana é compatível com outros conceitos matemáticos, como o produto interno e a norma, permitindo a integração com outros modelos e algoritmos.
+        Aplicabilidade em diferentes áreas: a distância euclidiana pode ser aplicada em várias áreas, desde a física até a ciência da computação, proporcionando uma medida comum para diferentes problemas.
+        Facilidade de implementação: algoritmos que utilizam a distância euclidiana são relativamente simples de implementar, o que facilita sua utilização em diferentes contextos.
+
+- Os contras de utilizar essa distância
+        Dimensionalidade: em espaços de alta dimensão, a distância euclidiana pode perder sua capacidade discriminativa, tornando-se menos eficaz na identificação de padrões.
+        Escalabilidade: o cálculo da distância euclidiana pode se tornar computacionalmente caro em grandes conjuntos de dados, exigindo estratégias eficientes para lidar com a escalabilidade.
+        Dependência de escala: a distância euclidiana é sensível à escala dos dados, o que pode levar a resultados distorcidos se não for tratada adequadamente.
+
+- Para a simplificação do código e entendimento, talvez seja um bom ponto de príncipio. Mas se considerar que a poluição maritima tem vários fatores, como a corrente maritima, a temperatura e até fatores externos podem afetar. 
+
+Distância de Mahalanobis
+
+- A distância de Mahalanobis é uma medida de distância entre dois pontos de dados em um espaço multidimensional, que leva em consideração a correlação entre as variáveis. Ela é uma generalização da distância euclidiana que considera a estrutura da covariância (covariância é quando duas variáveis que, mesmo sendo diferentes entre si, se relacionam. Um exemplo, no mundo financeiro, é possível fazer uma análise do preço do ativo X quando o ativo Y aumenta ou diminui) dos dados
+
+- A distância de Mahalanobis mede a distância entre dois pontos em relação à dispersão dos dados. Se as variáveis ​​forem altamente correlacionadas, a distância de Mahalanobis será menor do que a distância euclidiana, pois a correlação entre as variáveis ​​é considerada.
+
+- Onde usa:
+        - Machine Learning:
+                Classificação: Para classificar pontos de dados em diferentes grupos, considerando a covariância dos dados.
+                Agrupamento: Para agrupar pontos de dados semelhantes, considerando a correlação entre as variáveis.
+        
+        - Análise de Dados:
+                Detecção de outliers: Para identificar pontos de dados que são diferentes do padrão geral, considerando a dispersão dos dados.
+        - Outras áreas:
+                Reconhecimento de padrões
+                Processamento de sinais
+                Análise de dados de imagens
+
+- Vantagens:
+        Considera a correlação entre as variáveis.
+        Mais robusta a outliers do que a distância euclidiana.
+        Pode ser usada em espaços multidimensionais com diferentes escalas de variáveis.
+
+- Desvantagens:
+        Requer o cálculo da matriz de covariância, que pode ser computacionalmente cara.
+        A precisão do cálculo depende da qualidade dos dados e da precisão da matriz de covariância.
