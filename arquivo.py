@@ -74,7 +74,7 @@ def encontrar_distribuicao_otima(pontos, num_sensores, cov):
   return sensores
 
 # Define os pontos (coordenadas) onde os sensores podem ser colocados
-pontos = np.array([[1, 2], [2, 3], [3, 4], [4, 5], [5, 8]])
+pontos = np.array([[1, 2], [2, 3], [3, 4], [4, 5], [5, 6]])
 # Define o número de sensores
 num_sensores = 3
 # Define a matriz de covariância
