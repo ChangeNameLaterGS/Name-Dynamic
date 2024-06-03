@@ -5,9 +5,9 @@ O nome "Phoenix Systems" surge da inspiração na mítica ave Fênix, que renasc
 O projeto é composto pelos alunos:
 
 <ul>
-  <li>Gabriel Machado Carrara Pimentel - 99880;</li>
-  <li> Leticia Cristina Gandarez Resina - 98069;</li>
-  <li> Vitor Hugo Gonçalves Rodrigues - 97758;</li>
+  <li>Gabriel Machado Carrara Pimentel;</li>
+  <li> Leticia Cristina Gandarez Resina;</li>
+  <li> Vitor Hugo Gonçalves Rodrigues;</li>
 </ul>
 
 ## Aqua Proteus
