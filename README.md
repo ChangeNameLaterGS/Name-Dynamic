@@ -7,7 +7,7 @@ O projeto é composto pelos alunos:
 <ul>
   <li>Gabriel Machado Carrara Pimentel;</li>
   <li> Leticia Cristina Gandarez Resina;</li>
-  <li> Vitor Hugo Gonçalvez Rodrigues.</li>
+  <li> Vitor Hugo Gonçalves Rodrigues.</li>
 </ul>
 
 ## Aqua Proteus
